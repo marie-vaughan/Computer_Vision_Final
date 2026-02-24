@@ -1,0 +1,12 @@
+names:
+- book
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: open-shelves
+  url: https://universe.roboflow.com/capjamesg/open-shelves/dataset/9
+  version: 9
+  workspace: capjamesg
+test: ../test/images
+train: ../train/images
+val: ../valid/images
