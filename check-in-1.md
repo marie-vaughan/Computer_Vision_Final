@@ -21,20 +21,30 @@ Vision (with multimodal elements)
 ## 3. Data audit / EDA
 
 ### Representative samples / visuals / summary stats
+Shown in eda.ipynb
 
 ### Basic dataset characteristics (classes, balance, etc.)
-
+There are may be some genres underrepresented in the dataset such as children's books, but if the model can generalize well, it should still be able to handle these cases.
 
 ### Any obvious artifacts, biases, or failure modes
-
+Books with very thin spines or books partially obstructed may be hard to read the title/ author from. 
 
 ## 4. Evaluation plan
 
-### Metrics appropriate to the task
-### Train/validation/test split or CV plan
+Plan to do a 70/15/15 train/val/test split
+
+Detection: mAP@0.5 and mAP@0.5:0.95 for spine localization
+
+Title match rate — what % of detected spines resolve to the correct book in the Google Books API after OCR
+
+I plan to keep my personal photos entirely in the test set to evaluate generalization to unseen, real-world conditions. 
 
 ## 5. Initial baseline / representation
 
 ### A first baseline or representation idea (classical features, spectrogram pipeline, basic CNN, etc.)
 
+I plan to use a basic CNN as my first baseline. Then train an object detection system to extact books from any angle and identify with a multimodal transformer.
+
 ### Early observations or next steps
+
+Next steps: object detection and segmentation to identify the locations of all the books on the images. 
