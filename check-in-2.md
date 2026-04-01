@@ -13,10 +13,27 @@ Classical - Book AP@0.5 on valid (IoU=0.5, score>=0.05): 0.0007 (GT=1658, imgs=9
 
 CNN - Book AP@0.5 (IoU=0.5, score>=0.05): 0.9321 (GT=1658)
 
-For the classical baseline, I converted to grayscale, found the horizontal gradient magnitude, reduced to a column edge-energy profile, and found continuous high-edge vertical bands for spine detection. The model achieved very poor results, with an AP of 0.0007 using a threshold of 0.5. This is likely due to the variability in book spin shapes and sizes.
+For the classical baseline, I converted to grayscale, found the horizontal gradient magnitude, reduced to a column edge-energy profile, and found continuous high-edge vertical bands for spine detection. The model achieved very poor results, with an AP of 0.0007 using a threshold of 0.5. 
 
 For the CNN baseline, I used Faster R-CNN and fine-tuned it on the book spin detection dataset. The model achieved very good results, with an AP of 0.9321 using a threshold of 0.05.
 
 
 ## 4. Failure analysis: 
 
+### What breaks and why: 
+
+The classical baseline performs poorly due to difficulty of finding consistent vertical bands across the variability in book spin shapes and sizes and well as lighting conditions and similar background colors.
+
+The CNN baseline performs well due to its ability to learn complex patterns and features from the data, but may still struggle with thin book spines or occlusions.
+
+### Failure examples:
+
+Classical:
+![classical_baseline_image](./images/classical_baseline_image.png)
+
+CNN:
+![cnn_baseline_image](./images/cnn_baseline_image.png)
+
+### Patterns:
+
+Small/ thin book spines are repeatly missed in the above picture for the CNN model and the classical model fails to detect any spine in the image (Red boxes are the ground truth labels). 
