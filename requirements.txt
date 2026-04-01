@@ -1,2 +1,8 @@
 roboflow==1.2.14
+matplotlib
+Pillow
+pycocotools
+torch
+torchvision
+numpy
 
