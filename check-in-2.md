@@ -9,6 +9,7 @@ cnn_baseline.ipynb
 ## 3. Results + evaluation:
 
 Book spin detection:
+
 Classical - Book AP@0.5 on valid (IoU=0.5, score>=0.05): 0.0007 (GT=1658, imgs=96)
 
 CNN - Book AP@0.5 (IoU=0.5, score>=0.05): 0.9321 (GT=1658)
@@ -28,12 +29,18 @@ The CNN baseline performs well due to its ability to learn complex patterns and 
 
 ### Failure examples:
 
+Red bounding boxes are ground truth labels and green are predicted.
+
 Classical:
+
 ![classical_baseline_image](./images/classical_baseline_image.png)
 
 CNN:
+
 ![cnn_baseline_image](./images/cnn_baseline_image.png)
 
 ### Patterns:
 
-Small/ thin book spines are repeatly missed in the above picture for the CNN model and the classical model fails to detect any spine in the image (Red boxes are the ground truth labels). 
+The classical model fails to detect any spines in most images (Only ground truth labels are shown in image above). 
+
+Small/ thin book spines are repeatly missed in the above picture for the CNN model as well as some incorrect overlapping boxes. 
