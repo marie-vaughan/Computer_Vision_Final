@@ -5,4 +5,14 @@ pycocotools
 torch
 torchvision
 numpy
-
+easyocr
+open_clip_torch
+scipy
+requests
+rapidfuzz
+python-dotenv
+paddlepaddle
+paddleocr
+transformers
+sentencepiece
+accelerate
