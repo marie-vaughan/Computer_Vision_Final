@@ -56,12 +56,12 @@ Qwen2-VL-2B is the strongest reader, beating the best classical OCR (PaddleOCR) 
 ### Experiment
 I ran three controlled component swaps on the same 10 shelves and kept every other knob fixed:
 
-| Config | Change | Recall | Precision | F1 | n_pred | n_ok | Runtime |
-|---|---|---|---|---|---|---|---|
-| A | Qwen + raw Faster R-CNN (NMS @ 0.5) + text-only ranking | 0.976 | 0.667 | 0.792 | 120 | — | 2.5 min |
-| B | + dedupe identical predictions per shelf | 0.951 | 0.867 | 0.907 | 90 | 36 | 2.6 min |
-| C | + post-NMS @ IoU 0.30 on spine boxes | 0.939 | 0.885 | 0.911 | 87 | 28 | 1.9 min |
-| D | + CLIP image-sim re-rank (w_image = 0.35) | 0.927 | 0.874 | 0.899 | 87 | 49 | 1.9 min |
+| Config | Change | Recall | Precision | F1 | n_pred | n_ok |
+|---|---|---|---|---|---|---|
+| A | Qwen + raw Faster R-CNN (NMS @ 0.5) + text-only ranking | 0.976 | 0.667 | 0.792 | 120 | — |
+| B | + dedupe identical predictions per shelf | 0.951 | 0.867 | 0.907 | 90 | 36 |
+| C | + post-NMS @ IoU 0.30 on spine boxes | 0.939 | 0.885 | 0.911 | 87 | 28 |
+| D | + CLIP image-sim re-rank (w_image = 0.35) | 0.927 | 0.874 | 0.899 | 87 | 49 |
 
 ### What the ablations show
 
