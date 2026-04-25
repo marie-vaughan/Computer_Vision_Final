@@ -56,7 +56,7 @@ Qwen2-VL-2B is the strongest reader, beating the best classical OCR (PaddleOCR) 
 ### Experiment
 I ran three controlled component swaps on the same 10 shelves and kept every other knob fixed:
 
-Config | Change | Recall | Precision | F1 | n_pred | n_ok | Runtime |
+| Config | Change | Recall | Precision | F1 | n_pred | n_ok | Runtime |
 |---|---|---|---|---|---|---|
 | A | Qwen + raw Faster R-CNN (NMS @ 0.5) + text-only ranking | 0.976 | 0.667 | 0.792 | 120 | — | 2.5 min |
 | B | + dedupe identical predictions per shelf | 0.951 | 0.867 | 0.907 | 90 | 36 | 2.6 min |
