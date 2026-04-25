@@ -1,0 +1,1831 @@
+[
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":0,
+    "bbox":[
+      259.8199157715,
+      99.2175979614,
+      288.9461364746,
+      269.6354370117
+    ],
+    "det_score":0.9978331923,
+    "ocr_title":"The Seven Usual Sins",
+    "ocr_author":"Walter M. Newton",
+    "ocr_publisher":"Harper & Row",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"Christian Companion",
+    "match_authors":[
+
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"1906",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"LcQOoUotPo8C",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=LcQOoUotPo8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":0.600828238,
+    "clip_sim":0.599868238,
+    "author_overlap":0.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":1,
+    "bbox":[
+      375.328704834,
+      438.9954528809,
+      406.3222045898,
+      609.5054321289
+    ],
+    "det_score":0.9975962043,
+    "ocr_title":"The Queen of Nothing",
+    "ocr_author":"Katherine\u043a\u0438\u043d",
+    "ocr_publisher":"Turtleback School & Library",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"The Queen of Nothing",
+    "match_authors":[
+      "Holly Black"
+    ],
+    "match_publisher":"Little, Brown Books for Young Readers",
+    "match_publishedDate":"2019-11-19",
+    "match_categories":[
+      "Young Adult Fiction"
+    ],
+    "match_isbn":"9780316310406",
+    "match_volumeId":"7LaMDwAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=7LaMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":0.8215167637,
+    "clip_sim":0.8024767637,
+    "author_overlap":0.0,
+    "review_flag":"ok"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":2,
+    "bbox":[
+      312.6858825684,
+      435.2987976074,
+      345.9983825684,
+      607.7673339844
+    ],
+    "det_score":0.997199893,
+    "ocr_title":"The Cruel Prince",
+    "ocr_author":"Holly O. McEveety",
+    "ocr_publisher":"Simon & Schuster",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"The Cruel Prince",
+    "match_authors":[
+      "Holly Black"
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"2018",
+    "match_categories":[
+
+    ],
+    "match_isbn":"9781471406454",
+    "match_volumeId":"Y_OktAEACAAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=Y_OktAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":0.9491619729,
+    "clip_sim":0.8927819729,
+    "author_overlap":0.25,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":3,
+    "bbox":[
+      9.7749176025,
+      95.5587081909,
+      43.1192245483,
+      265.225402832
+    ],
+    "det_score":0.9967858791,
+    "ocr_title":"She Gets the Girl",
+    "ocr_author":"Unknown",
+    "ocr_publisher":"Unknown",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"She Gets the Girl",
+    "match_authors":[
+      "Rachael Lippincott",
+      "Alyson Derrick"
+    ],
+    "match_publisher":"Deutscher Taschenbuch Verlag",
+    "match_publishedDate":"2023-06-15",
+    "match_categories":[
+      "Juvenile Fiction"
+    ],
+    "match_isbn":"9783423442473",
+    "match_volumeId":"WGyqEAAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=WGyqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":0.7691424853,
+    "clip_sim":0.7494624853,
+    "author_overlap":0.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":4,
+    "bbox":[
+      474.2055664062,
+      439.8727111816,
+      513.3653564453,
+      603.5197753906
+    ],
+    "det_score":0.9967589974,
+    "ocr_title":"Bloodmarked",
+    "ocr_author":"J. D. Robb",
+    "ocr_publisher":"Harlequin",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"Bloodmarked",
+    "match_authors":[
+      "Lu Whitley"
+    ],
+    "match_publisher":"CreateSpace",
+    "match_publishedDate":"2015-03-01",
+    "match_categories":[
+
+    ],
+    "match_isbn":"9781505225396",
+    "match_volumeId":"o7NBrgEACAAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=o7NBrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":0.8277592525,
+    "clip_sim":0.8093592525,
+    "author_overlap":0.0,
+    "review_flag":"ok"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":5,
+    "bbox":[
+      204.9050292969,
+      96.2287368774,
+      225.8765716553,
+      266.7336425781
+    ],
+    "det_score":0.9967513084,
+    "ocr_title":"PAINTER",
+    "ocr_author":"PAINTER",
+    "ocr_publisher":"PAINTER",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"The Painter's and Varnisher's Pocket Manual, Etc",
+    "match_authors":[
+      "PAINTER."
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"1825",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"6hV9sKpUviMC",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=6hV9sKpUviMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":0.8534466863,
+    "clip_sim":0.7034466863,
+    "author_overlap":1.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":6,
+    "bbox":[
+      405.5933532715,
+      439.7231140137,
+      433.115234375,
+      607.5729370117
+    ],
+    "det_score":0.9966891408,
+    "ocr_title":"House of Sorrow",
+    "ocr_author":"Erin S. Craig",
+    "ocr_publisher":"Fawcett",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"House of Sorrow",
+    "match_authors":[
+      "Emily O'Donoghue"
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"1998",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"aMjSNwAACAAJ",
+    "match_thumbnail":"",
+    "match_score":0.8305576293,
+    "clip_sim":0.8148776293,
+    "author_overlap":0.0,
+    "review_flag":"ok"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":7,
+    "bbox":[
+      288.8129577637,
+      100.0182495117,
+      323.556427002,
+      271.310546875
+    ],
+    "det_score":0.9966693521,
+    "ocr_title":"Anatomy",
+    "ocr_author":"Anna Schwartz",
+    "ocr_publisher":"W. W. Norton",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"Human Anatomy",
+    "match_authors":[
+      "Frederic H. Martini",
+      "Michael J. Timmons",
+      "Robert B. Tallitsch"
+    ],
+    "match_publisher":"Pearson Higher Ed",
+    "match_publishedDate":"2014-04-02",
+    "match_categories":[
+      "Science"
+    ],
+    "match_isbn":"9780321908704",
+    "match_volumeId":"IpV-AgAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=IpV-AgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":0.7648173225,
+    "clip_sim":0.7465773225,
+    "author_overlap":0.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":8,
+    "bbox":[
+      40.7839584351,
+      96.3068161011,
+      74.5724411011,
+      263.391418457
+    ],
+    "det_score":0.9963408113,
+    "ocr_title":"",
+    "ocr_author":"",
+    "ocr_publisher":"",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"",
+    "match_authors":[
+
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"",
+    "match_thumbnail":"",
+    "match_score":0.0,
+    "clip_sim":0.0,
+    "author_overlap":0.0,
+    "review_flag":"unreadable"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":9,
+    "bbox":[
+      286.2961730957,
+      427.4294433594,
+      311.8404541016,
+      606.8112182617
+    ],
+    "det_score":0.9961960316,
+    "ocr_title":"Girl, Serpent, Thorn",
+    "ocr_author":"Sara Shepard",
+    "ocr_publisher":"Simon & Schuster",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"Girl, Serpent, Thorn",
+    "match_authors":[
+      "Melissa Bashardoust"
+    ],
+    "match_publisher":"Flatiron Books",
+    "match_publishedDate":"2020-07-07",
+    "match_categories":[
+      "Young Adult Fiction"
+    ],
+    "match_isbn":"9781250196156",
+    "match_volumeId":"K32oDwAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=K32oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":0.7952609388,
+    "clip_sim":0.7760609388,
+    "author_overlap":0.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":10,
+    "bbox":[
+      73.4928665161,
+      93.5020751953,
+      104.0654067993,
+      268.5361633301
+    ],
+    "det_score":0.9961200953,
+    "ocr_title":"The Fault in Our Stars",
+    "ocr_author":"John Green",
+    "ocr_publisher":"Simon & Schuster",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"The Fault in Our Stars",
+    "match_authors":[
+      "John Green"
+    ],
+    "match_publisher":"Penguin Books",
+    "match_publishedDate":"2014-04-08",
+    "match_categories":[
+      "Juvenile Fiction"
+    ],
+    "match_isbn":"9780142424179",
+    "match_volumeId":"QiLaCwAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=QiLaCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":1.1682397616,
+    "clip_sim":0.9999997616,
+    "author_overlap":1.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":11,
+    "bbox":[
+      592.2722167969,
+      432.6332092285,
+      625.9596557617,
+      616.2028198242
+    ],
+    "det_score":0.9955714345,
+    "ocr_title":"The Siren Queen",
+    "ocr_author":"Levenslie Daughter",
+    "ocr_publisher":"Siren Publishing",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"Daughter of the Siren Queen",
+    "match_authors":[
+      "Tricia Levenseller"
+    ],
+    "match_publisher":"Pushkin Press",
+    "match_publishedDate":"2022-11-24",
+    "match_categories":[
+      "Young Adult Fiction"
+    ],
+    "match_isbn":"9781782693710",
+    "match_volumeId":"Vn9qEAAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=Vn9qEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":0.8624859009,
+    "clip_sim":0.8429659009,
+    "author_overlap":0.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":12,
+    "bbox":[
+      432.0367736816,
+      441.8162536621,
+      471.6367797852,
+      606.7030029297
+    ],
+    "det_score":0.9948222637,
+    "ocr_title":"Legendborn",
+    "ocr_author":"Deonn",
+    "ocr_publisher":"Del Rey",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"Legendborn",
+    "match_authors":[
+      "Tracy Deonn"
+    ],
+    "match_publisher":"Simon & Schuster Children's UK",
+    "match_publishedDate":"2025-03-13",
+    "match_categories":[
+      "Young Adult Fiction"
+    ],
+    "match_isbn":"9781398543805",
+    "match_volumeId":"WALW0AEACAAJ",
+    "match_thumbnail":"",
+    "match_score":0.8698232484,
+    "clip_sim":0.7748232484,
+    "author_overlap":0.5,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":13,
+    "bbox":[
+      345.2035827637,
+      434.2455749512,
+      376.1230163574,
+      610.2513427734
+    ],
+    "det_score":0.9942937493,
+    "ocr_title":"The Wicked King",
+    "ocr_author":"Katie Fforde",
+    "ocr_publisher":"A & B",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"The Wicked King: And Other Stories",
+    "match_authors":[
+      "Pj Author Jr"
+    ],
+    "match_publisher":"Independently Published",
+    "match_publishedDate":"2019-01-21",
+    "match_categories":[
+      "Fiction"
+    ],
+    "match_isbn":"9781794551152",
+    "match_volumeId":"ztNuwQEACAAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=ztNuwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":0.8369017358,
+    "clip_sim":0.8178617358,
+    "author_overlap":0.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":14,
+    "bbox":[
+      228.0694580078,
+      99.3957519531,
+      260.783782959,
+      269.1559448242
+    ],
+    "det_score":0.9936915636,
+    "ocr_title":"Painter",
+    "ocr_author":"Beating on You",
+    "ocr_publisher":"Collins",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"The Painter in Oil",
+    "match_authors":[
+      "Daniel Burleigh Parkhurst"
+    ],
+    "match_publisher":"E-Kitap Projesi & Cheapest Books",
+    "match_publishedDate":"2024-11-23",
+    "match_categories":[
+      "Art"
+    ],
+    "match_isbn":"9786155565793",
+    "match_volumeId":"E3wyEQAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=E3wyEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":0.6934906224,
+    "clip_sim":0.6736506224,
+    "author_overlap":0.0,
+    "review_flag":"ok"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":15,
+    "bbox":[
+      128.880355835,
+      79.7006072998,
+      173.1374969482,
+      264.4905090332
+    ],
+    "det_score":0.9936047196,
+    "ocr_title":"Happy Place",
+    "ocr_author":"Emily Henry",
+    "ocr_publisher":"Simon & Schuster",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"Happy Place",
+    "match_authors":[
+      "Emily Henry"
+    ],
+    "match_publisher":"Penguin",
+    "match_publishedDate":"2024-03-05",
+    "match_categories":[
+      "Fiction"
+    ],
+    "match_isbn":"9780593441190",
+    "match_volumeId":"EObnEAAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=EObnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":1.1698398808,
+    "clip_sim":0.9999998808,
+    "author_overlap":1.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":16,
+    "bbox":[
+      558.6835327148,
+      436.619354248,
+      593.8258666992,
+      608.6168823242
+    ],
+    "det_score":0.9929001331,
+    "ocr_title":"Daughter of the Pirate King",
+    "ocr_author":"Kevinseller",
+    "ocr_publisher":"Candlewick Press",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"Daughter of the Pirate King",
+    "match_authors":[
+      "Tricia Levenseller"
+    ],
+    "match_publisher":"Feiwel & Friends",
+    "match_publishedDate":"2017-02-28",
+    "match_categories":[
+      "Young Adult Fiction"
+    ],
+    "match_isbn":"9781250095978",
+    "match_volumeId":"z1q7DAAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=z1q7DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":0.9107935121,
+    "clip_sim":0.8920735121,
+    "author_overlap":0.0,
+    "review_flag":"ok"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":17,
+    "bbox":[
+      515.8712768555,
+      441.0372619629,
+      552.1181030273,
+      606.7225952148
+    ],
+    "det_score":0.9928078651,
+    "ocr_title":"On the Lives of Puppets",
+    "ocr_author":"T.J. O'Brien",
+    "ocr_publisher":"Greenwillow Books",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"The Art of the Puppet",
+    "match_authors":[
+      "Bil Baird"
+    ],
+    "match_publisher":"New York : Macmillan",
+    "match_publishedDate":"1965",
+    "match_categories":[
+      "Juvenile Nonfiction"
+    ],
+    "match_isbn":"",
+    "match_volumeId":"bZRZAAAAMAAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=bZRZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":0.7998927859,
+    "clip_sim":0.7894927859,
+    "author_overlap":0.0,
+    "review_flag":"ok"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":18,
+    "bbox":[
+      209.4639129639,
+      407.9644775391,
+      241.2548828125,
+      613.6232299805
+    ],
+    "det_score":0.9925481677,
+    "ocr_title":"The Atlas Six",
+    "ocr_author":"Olivie Blake",
+    "ocr_publisher":"TFP",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"The Atlas Six",
+    "match_authors":[
+      "Olivie Blake"
+    ],
+    "match_publisher":"S. Fischer Verlag",
+    "match_publishedDate":"2022-09-01",
+    "match_categories":[
+      "Fiction"
+    ],
+    "match_isbn":"9783104916101",
+    "match_volumeId":"CcViEAAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=CcViEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":1.1695199404,
+    "clip_sim":0.9999999404,
+    "author_overlap":1.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":19,
+    "bbox":[
+      247.4476318359,
+      413.9154968262,
+      281.7785949707,
+      613.7157592773
+    ],
+    "det_score":0.9923823476,
+    "ocr_title":"The Atlas Paradox",
+    "ocr_author":"Olivie Blake",
+    "ocr_publisher":"FSG",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"The Atlas Paradox",
+    "match_authors":[
+      "Olivie Blake"
+    ],
+    "match_publisher":"S. Fischer Verlag",
+    "match_publishedDate":"2023-04-01",
+    "match_categories":[
+      "Fiction"
+    ],
+    "match_isbn":"9783104916118",
+    "match_volumeId":"cWZ1EAAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=cWZ1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":1.1696801192,
+    "clip_sim":1.0000001192,
+    "author_overlap":1.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":20,
+    "bbox":[
+      366.0047912598,
+      98.1182098389,
+      407.4912719727,
+      271.0234680176
+    ],
+    "det_score":0.992104888,
+    "ocr_title":"By a Thread of Lucy Score",
+    "ocr_author":"Lucy Score",
+    "ocr_publisher":"B",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"",
+    "match_authors":[
+
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"",
+    "match_thumbnail":"",
+    "match_score":0.0,
+    "clip_sim":0.0,
+    "author_overlap":0.0,
+    "review_flag":"low_confidence"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":21,
+    "bbox":[
+      175.2814178467,
+      93.9913864136,
+      205.833984375,
+      269.4227600098
+    ],
+    "det_score":0.9906308055,
+    "ocr_title":"Better Than the Movies",
+    "ocr_author":"PAINTER",
+    "ocr_publisher":"Random House",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"Better than the movies",
+    "match_authors":[
+      "Lynn Painter"
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"2025-02-19",
+    "match_categories":[
+
+    ],
+    "match_isbn":"9782487412163",
+    "match_volumeId":"KXEb0QEACAAJ",
+    "match_thumbnail":"",
+    "match_score":0.9581606102,
+    "clip_sim":0.8631606102,
+    "author_overlap":0.5,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":22,
+    "bbox":[
+      403.9283752441,
+      327.4995727539,
+      633.0200805664,
+      371.4016113281
+    ],
+    "det_score":0.9896395206,
+    "ocr_title":"Powerless",
+    "ocr_author":"Robert Kirkman",
+    "ocr_publisher":"Image Comics",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"Powerless",
+    "match_authors":[
+      "Matthew Cody"
+    ],
+    "match_publisher":"Knopf Books for Young Readers",
+    "match_publishedDate":"2009-10-27",
+    "match_categories":[
+      "Juvenile Fiction"
+    ],
+    "match_isbn":"9780375893537",
+    "match_volumeId":"-zFYTdWuqb4C",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=-zFYTdWuqb4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":0.7794898538,
+    "clip_sim":0.7620498538,
+    "author_overlap":0.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":23,
+    "bbox":[
+      329.4749145508,
+      93.0371017456,
+      365.7594299316,
+      270.0713500977
+    ],
+    "det_score":0.9889963865,
+    "ocr_title":"Immortality: A Love Story",
+    "ocr_author":"Dana Schorr",
+    "ocr_publisher":"W",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"Immortality: A Love Story",
+    "match_authors":[
+      "Dana Schwartz"
+    ],
+    "match_publisher":"Hachette UK",
+    "match_publishedDate":"2023-02-28",
+    "match_categories":[
+      "Young Adult Fiction"
+    ],
+    "match_isbn":"9780349433387",
+    "match_volumeId":"4ZNtEAAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=4ZNtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":0.9062996156,
+    "clip_sim":0.8366196156,
+    "author_overlap":0.3333333333,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":24,
+    "bbox":[
+      406.0844726562,
+      366.3797302246,
+      628.1630859375,
+      408.9652404785
+    ],
+    "det_score":0.9886786342,
+    "ocr_title":"A Court of Mist and Fury",
+    "ocr_author":"Sarah J. Maas",
+    "ocr_publisher":"",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"A Court of Mist and Fury",
+    "match_authors":[
+      "Sarah J. Maas"
+    ],
+    "match_publisher":"Bloomsbury Publishing",
+    "match_publishedDate":"2020-10-01",
+    "match_categories":[
+      "Fiction"
+    ],
+    "match_isbn":"9781526634252",
+    "match_volumeId":"ZMwAEAAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=ZMwAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":1.1692,
+    "clip_sim":1.0,
+    "author_overlap":1.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":25,
+    "bbox":[
+      0.0,
+      411.7889709473,
+      202.4810028076,
+      453.274810791
+    ],
+    "det_score":0.984378159,
+    "ocr_title":"Ninth House",
+    "ocr_author":"",
+    "ocr_publisher":"",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"Ninth House",
+    "match_authors":[
+      "Leigh Bardugo"
+    ],
+    "match_publisher":"Flatiron Books",
+    "match_publishedDate":"2019-10-08",
+    "match_categories":[
+      "Fiction"
+    ],
+    "match_isbn":"9781250313089",
+    "match_volumeId":"6dt_DwAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=6dt_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":0.8936354633,
+    "clip_sim":0.8745954633,
+    "author_overlap":0.0,
+    "review_flag":"ok"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":26,
+    "bbox":[
+      411.8330993652,
+      215.9253997803,
+      640.0,
+      257.1032714844
+    ],
+    "det_score":0.9818638563,
+    "ocr_title":"The First to Die at the End",
+    "ocr_author":"Silvera",
+    "ocr_publisher":"Harlequin",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"The First to Die at the End",
+    "match_authors":[
+      "Adam Silvera"
+    ],
+    "match_publisher":"Quill Tree Books",
+    "match_publishedDate":"2022-10-04",
+    "match_categories":[
+
+    ],
+    "match_isbn":"9780063286498",
+    "match_volumeId":"lL4LzwEACAAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=lL4LzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":0.9494704876,
+    "clip_sim":0.8549504876,
+    "author_overlap":0.5,
+    "review_flag":"ok"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":27,
+    "bbox":[
+      15.5261106491,
+      473.5114746094,
+      189.9399261475,
+      508.4419555664
+    ],
+    "det_score":0.980376482,
+    "ocr_title":"Ruin and Rising",
+    "ocr_author":"Tara",
+    "ocr_publisher":"Publisher Name",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"Ruin and Rising",
+    "match_authors":[
+      "Leigh Bardugo"
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"2015-08-18",
+    "match_categories":[
+      "Juvenile Fiction"
+    ],
+    "match_isbn":"9781250063168",
+    "match_volumeId":"Sno2DwAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=Sno2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":0.7213711008,
+    "clip_sim":0.7029711008,
+    "author_overlap":0.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":28,
+    "bbox":[
+      104.8288803101,
+      91.1466217041,
+      135.6221160889,
+      268.7759399414
+    ],
+    "det_score":0.9797251821,
+    "ocr_title":"People We Meet on Vacation",
+    "ocr_author":"Emily Henry",
+    "ocr_publisher":"William Morrow",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"People we meet on vacation",
+    "match_authors":[
+      "Emily Henry"
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"2024-06-05",
+    "match_categories":[
+
+    ],
+    "match_isbn":"9782381227047",
+    "match_volumeId":"iCK_0AEACAAJ",
+    "match_thumbnail":"",
+    "match_score":1.1698398808,
+    "clip_sim":0.9999998808,
+    "author_overlap":1.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":29,
+    "bbox":[
+      11.3961734772,
+      440.5074157715,
+      193.3014373779,
+      478.1141662598
+    ],
+    "det_score":0.9748884439,
+    "ocr_title":"",
+    "ocr_author":"",
+    "ocr_publisher":"",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"",
+    "match_authors":[
+
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"",
+    "match_thumbnail":"",
+    "match_score":0.0,
+    "clip_sim":0.0,
+    "author_overlap":0.0,
+    "review_flag":"unreadable"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":30,
+    "bbox":[
+      457.8835144043,
+      183.291015625,
+      628.9615478516,
+      204.5534515381
+    ],
+    "det_score":0.9725068808,
+    "ocr_title":"",
+    "ocr_author":"",
+    "ocr_publisher":"",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"",
+    "match_authors":[
+
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"",
+    "match_thumbnail":"",
+    "match_score":0.0,
+    "clip_sim":0.0,
+    "author_overlap":0.0,
+    "review_flag":"unreadable"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":31,
+    "bbox":[
+      460.1265258789,
+      166.5067443848,
+      628.0015258789,
+      185.522567749
+    ],
+    "det_score":0.9575590491,
+    "ocr_title":"",
+    "ocr_author":"",
+    "ocr_publisher":"",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"",
+    "match_authors":[
+
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"",
+    "match_thumbnail":"",
+    "match_score":0.0,
+    "clip_sim":0.0,
+    "author_overlap":0.0,
+    "review_flag":"unreadable"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":32,
+    "bbox":[
+      13.289276123,
+      498.6987915039,
+      189.1724853516,
+      539.3252563477
+    ],
+    "det_score":0.9540789127,
+    "ocr_title":"Siege and Storm",
+    "ocr_author":"George R. R. Martin",
+    "ocr_publisher":"Del Rey",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"Siege and Storm: Chapters 1-5",
+    "match_authors":[
+      "Leigh Bardugo"
+    ],
+    "match_publisher":"Henry Holt and Company (BYR)",
+    "match_publishedDate":"2013-04-09",
+    "match_categories":[
+      "Young Adult Fiction"
+    ],
+    "match_isbn":"9781466842960",
+    "match_volumeId":"0bViWikBlIoC",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=0bViWikBlIoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":0.7897211948,
+    "clip_sim":0.7716411948,
+    "author_overlap":0.0,
+    "review_flag":"ok"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":33,
+    "bbox":[
+      0.0,
+      386.0801391602,
+      205.8032226562,
+      487.2517089844
+    ],
+    "det_score":0.9382690191,
+    "ocr_title":"Ninth House",
+    "ocr_author":"Holly Black",
+    "ocr_publisher":"Ninth House",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"Ninth House",
+    "match_authors":[
+      "Leigh Bardugo"
+    ],
+    "match_publisher":"Flatiron Books",
+    "match_publishedDate":"2019-10-08",
+    "match_categories":[
+      "Fiction"
+    ],
+    "match_isbn":"9781250313089",
+    "match_volumeId":"6dt_DwAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=6dt_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":0.8258348818,
+    "clip_sim":0.8067948818,
+    "author_overlap":0.0,
+    "review_flag":"ok"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":34,
+    "bbox":[
+      6.7013063431,
+      575.8031616211,
+      179.8870697021,
+      615.893737793
+    ],
+    "det_score":0.9203572273,
+    "ocr_title":"The Open Blighted Home",
+    "ocr_author":"J.R.R. Tolkien",
+    "ocr_publisher":"J.R.R. Tolkien",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"The Hobbit",
+    "match_authors":[
+      "J. R. R. Tolkien"
+    ],
+    "match_publisher":"HarperCollins UK",
+    "match_publishedDate":"2008",
+    "match_categories":[
+      "Comics & Graphic Novels"
+    ],
+    "match_isbn":"9780007270613",
+    "match_volumeId":"F2xu1nZOzKoC",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=F2xu1nZOzKoC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":0.9690045531,
+    "clip_sim":0.8017245531,
+    "author_overlap":1.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":35,
+    "bbox":[
+      11.428393364,
+      91.0326156616,
+      108.8185577393,
+      267.8643188477
+    ],
+    "det_score":0.9068122506,
+    "ocr_title":"She Gets the Girl",
+    "ocr_author":"Emily Man",
+    "ocr_publisher":"Simon & Schuster",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"She Gets the Girl",
+    "match_authors":[
+      "Rachael Lippincott",
+      "Alyson Derrick"
+    ],
+    "match_publisher":"Deutscher Taschenbuch Verlag",
+    "match_publishedDate":"2023-06-15",
+    "match_categories":[
+      "Juvenile Fiction"
+    ],
+    "match_isbn":"9783423442473",
+    "match_volumeId":"WGyqEAAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=WGyqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":0.700543142,
+    "clip_sim":0.680863142,
+    "author_overlap":0.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":36,
+    "bbox":[
+      413.4094848633,
+      397.9323730469,
+      628.0854492188,
+      431.3765258789
+    ],
+    "det_score":0.9048281908,
+    "ocr_title":"A Court of Thorns and Roses",
+    "ocr_author":"J. Maas",
+    "ocr_publisher":"",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"A Court of Thorns and Roses",
+    "match_authors":[
+      "Sarah J. Maas"
+    ],
+    "match_publisher":"Bloomsbury Publishing",
+    "match_publishedDate":"2025-10-23",
+    "match_categories":[
+      "Fiction"
+    ],
+    "match_isbn":"9781526694065",
+    "match_volumeId":"FEka0QEACAAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=FEka0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":1.0938206863,
+    "clip_sim":0.9738206863,
+    "author_overlap":0.6666666667,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":37,
+    "bbox":[
+      400.9570007324,
+      323.6028442383,
+      637.0806274414,
+      428.5910339355
+    ],
+    "det_score":0.9043161273,
+    "ocr_title":"A Court of Thorns and Roses",
+    "ocr_author":"Sarah J. Maas",
+    "ocr_publisher":"Scholastic",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"A Court of Thorns and Roses",
+    "match_authors":[
+      "Sarah J. Maas"
+    ],
+    "match_publisher":"Bloomsbury Publishing",
+    "match_publishedDate":"2025-10-23",
+    "match_categories":[
+      "Fiction"
+    ],
+    "match_isbn":"9781526694065",
+    "match_volumeId":"FEka0QEACAAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=FEka0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":1.1699998808,
+    "clip_sim":0.9999998808,
+    "author_overlap":1.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":38,
+    "bbox":[
+      467.6010742188,
+      200.204864502,
+      624.4352416992,
+      222.4919281006
+    ],
+    "det_score":0.8905155063,
+    "ocr_title":"Holidays and a Wedding",
+    "ocr_author":"Ursula K. Le Guin",
+    "ocr_publisher":"Marissa Stegley",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"Gifts",
+    "match_authors":[
+      "Ursula K. Le Guin"
+    ],
+    "match_publisher":"Houghton Mifflin Harcourt",
+    "match_publishedDate":"2004",
+    "match_categories":[
+      "Juvenile Fiction"
+    ],
+    "match_isbn":"9780152051235",
+    "match_volumeId":"UY7bjfq3mYkC",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=UY7bjfq3mYkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":1.0356000825,
+    "clip_sim":0.8689600825,
+    "author_overlap":1.0,
+    "review_flag":"ok"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":39,
+    "bbox":[
+      8.7543334961,
+      359.5522766113,
+      204.0055389404,
+      398.3925476074
+    ],
+    "det_score":0.8887262344,
+    "ocr_title":"Starless Sea",
+    "ocr_author":"Erin Morgenstern",
+    "ocr_publisher":"Holly Black",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"The Starless Sea",
+    "match_authors":[
+      "Erin Morgenstern"
+    ],
+    "match_publisher":"Arrow",
+    "match_publishedDate":"2020-08-06",
+    "match_categories":[
+      "Fiction"
+    ],
+    "match_isbn":"9781784702861",
+    "match_volumeId":"ADbRywEACAAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=ADbRywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":1.1405225961,
+    "clip_sim":0.9713225961,
+    "author_overlap":1.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":40,
+    "bbox":[
+      11.6525878906,
+      528.0692749023,
+      195.1471252441,
+      567.5087890625
+    ],
+    "det_score":0.8771447539,
+    "ocr_title":"Shadow and Bone",
+    "ocr_author":"Libba Bray",
+    "ocr_publisher":"Simon & Schuster",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"Shadow and Bone",
+    "match_authors":[
+      "Leigh Bardugo"
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"2021-04-09",
+    "match_categories":[
+
+    ],
+    "match_isbn":"9782408024512",
+    "match_volumeId":"sFBwzgEACAAJ",
+    "match_thumbnail":"",
+    "match_score":0.9410906376,
+    "clip_sim":0.9217306376,
+    "author_overlap":0.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":41,
+    "bbox":[
+      419.0402832031,
+      254.7790985107,
+      618.4455566406,
+      291.6186523438
+    ],
+    "det_score":0.8672029972,
+    "ocr_title":"They Both Die at the End",
+    "ocr_author":"Silvia",
+    "ocr_publisher":"Random House",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"Edward Albee's The Goat, Or, Who is Sylvia?",
+    "match_authors":[
+      "Edward Albee"
+    ],
+    "match_publisher":"Dramatists Play Service, Inc.",
+    "match_publishedDate":"2003",
+    "match_categories":[
+      "Drama"
+    ],
+    "match_isbn":"9780822219767",
+    "match_volumeId":"biyQZKztYaYC",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=biyQZKztYaYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":0.4657736134,
+    "clip_sim":0.4492936134,
+    "author_overlap":0.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":42,
+    "bbox":[
+      0.0,
+      554.2673950195,
+      189.4005584717,
+      594.4306640625
+    ],
+    "det_score":0.8660444617,
+    "ocr_title":"Lightmark",
+    "ocr_author":"",
+    "ocr_publisher":"",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"",
+    "match_authors":[
+
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"",
+    "match_thumbnail":"",
+    "match_score":0.0,
+    "clip_sim":0.0,
+    "author_overlap":0.0,
+    "review_flag":"low_confidence"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":43,
+    "bbox":[
+      0.0,
+      445.3359069824,
+      203.2264251709,
+      543.2552490234
+    ],
+    "det_score":0.8647146225,
+    "ocr_title":"Ruin and Rising",
+    "ocr_author":"Ron Robie",
+    "ocr_publisher":"Ninety House",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"Ruin and Rising",
+    "match_authors":[
+      "Leigh Bardugo"
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"2015-08-18",
+    "match_categories":[
+      "Juvenile Fiction"
+    ],
+    "match_isbn":"9781250063168",
+    "match_volumeId":"Sno2DwAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=Sno2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":0.8303210005,
+    "clip_sim":0.8119210005,
+    "author_overlap":0.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":44,
+    "bbox":[
+      408.7746276855,
+      290.3408813477,
+      626.3529663086,
+      327.6480407715
+    ],
+    "det_score":0.860599339,
+    "ocr_title":"",
+    "ocr_author":"",
+    "ocr_publisher":"",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"",
+    "match_authors":[
+
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"",
+    "match_thumbnail":"",
+    "match_score":0.0,
+    "clip_sim":0.0,
+    "author_overlap":0.0,
+    "review_flag":"unreadable"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":45,
+    "bbox":[
+      412.833404541,
+      183.7484893799,
+      640.0,
+      273.7913208008
+    ],
+    "det_score":0.8382200003,
+    "ocr_title":"",
+    "ocr_author":"",
+    "ocr_publisher":"",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"",
+    "match_authors":[
+
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"",
+    "match_thumbnail":"",
+    "match_score":0.0,
+    "clip_sim":0.0,
+    "author_overlap":0.0,
+    "review_flag":"unreadable"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":46,
+    "bbox":[
+      518.8029785156,
+      443.332611084,
+      633.4821166992,
+      611.9298095703
+    ],
+    "det_score":0.8334040642,
+    "ocr_title":"The Daughter of the Siren Queen",
+    "ocr_author":"Levene Lee",
+    "ocr_publisher":"Yoon",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"Daughter of the Siren Queen",
+    "match_authors":[
+      "Tricia Levenseller"
+    ],
+    "match_publisher":"Pushkin Press",
+    "match_publishedDate":"2022-11-24",
+    "match_categories":[
+      "Young Adult Fiction"
+    ],
+    "match_isbn":"9781782693710",
+    "match_volumeId":"Vn9qEAAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=Vn9qEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":0.9061557207,
+    "clip_sim":0.8866357207,
+    "author_overlap":0.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":47,
+    "bbox":[
+      405.157043457,
+      135.9540100098,
+      640.0,
+      225.4739227295
+    ],
+    "det_score":0.8060486317,
+    "ocr_title":"",
+    "ocr_author":"",
+    "ocr_publisher":"",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"",
+    "match_authors":[
+
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"",
+    "match_thumbnail":"",
+    "match_score":0.0,
+    "clip_sim":0.0,
+    "author_overlap":0.0,
+    "review_flag":"unreadable"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":48,
+    "bbox":[
+      408.2718811035,
+      135.1235656738,
+      639.0587768555,
+      179.458984375
+    ],
+    "det_score":0.7945080996,
+    "ocr_title":"First Down",
+    "ocr_author":"Grace Reilly",
+    "ocr_publisher":"Taylor Publishing",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"First Down",
+    "match_authors":[
+      "Grace Reilly"
+    ],
+    "match_publisher":"Avon Books",
+    "match_publishedDate":"2024-02-20",
+    "match_categories":[
+      "Fiction"
+    ],
+    "match_isbn":"9780063384118",
+    "match_volumeId":"b8Qm0AEACAAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=b8Qm0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "match_score":1.16984,
+    "clip_sim":1.0,
+    "author_overlap":1.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":49,
+    "bbox":[
+      1.6792297363,
+      498.5978088379,
+      186.3650360107,
+      621.6367797852
+    ],
+    "det_score":0.7871793509,
+    "ocr_title":"The Children of Blood and Bone",
+    "ocr_author":"Cressida Cowell",
+    "ocr_publisher":"Simon & Schuster",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"Children of blood and bone",
+    "match_authors":[
+      "Tomi Adeyemi"
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"2019",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"Y4QoyAEACAAJ",
+    "match_thumbnail":"",
+    "match_score":0.8144262548,
+    "clip_sim":0.7953862548,
+    "author_overlap":0.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":50,
+    "bbox":[
+      0.0,
+      378.8987731934,
+      206.835067749,
+      418.0854492188
+    ],
+    "det_score":0.7692476511,
+    "ocr_title":"",
+    "ocr_author":"",
+    "ocr_publisher":"",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"",
+    "match_authors":[
+
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"",
+    "match_thumbnail":"",
+    "match_score":0.0,
+    "clip_sim":0.0,
+    "author_overlap":0.0,
+    "review_flag":"unreadable"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":51,
+    "bbox":[
+      434.920501709,
+      260.068939209,
+      621.560546875,
+      280.2220153809
+    ],
+    "det_score":0.7563778162,
+    "ocr_title":"They Both Die at the End",
+    "ocr_author":"Silvia",
+    "ocr_publisher":"Farrar, Straus and Giroux",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"Edward Albee's The Goat, Or, Who is Sylvia?",
+    "match_authors":[
+      "Edward Albee"
+    ],
+    "match_publisher":"Dramatists Play Service, Inc.",
+    "match_publishedDate":"2003",
+    "match_categories":[
+      "Drama"
+    ],
+    "match_isbn":"9780822219767",
+    "match_volumeId":"biyQZKztYaYC",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=biyQZKztYaYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":0.4657736134,
+    "clip_sim":0.4492936134,
+    "author_overlap":0.0,
+    "review_flag":"ambiguous"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":52,
+    "bbox":[
+      406.0044555664,
+      179.334564209,
+      640.0,
+      221.6420135498
+    ],
+    "det_score":0.7234840393,
+    "ocr_title":"Three Holidays and a Wedding",
+    "ocr_author":"Marissa Stegley",
+    "ocr_publisher":"Random House",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"Three Holidays and a Wedding",
+    "match_authors":[
+      "Uzma Jalaluddin",
+      "Marissa Stapley"
+    ],
+    "match_publisher":"Penguin",
+    "match_publishedDate":"2023-10-03",
+    "match_categories":[
+      "Fiction"
+    ],
+    "match_isbn":"9780735246454",
+    "match_volumeId":"K0elEAAAQBAJ",
+    "match_thumbnail":"http:\/\/books.google.com\/books\/content?id=K0elEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "match_score":0.8877059871,
+    "clip_sim":0.8380259871,
+    "author_overlap":0.2,
+    "review_flag":"ok"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":53,
+    "bbox":[
+      452.5131530762,
+      207.1500244141,
+      634.2746582031,
+      216.8355255127
+    ],
+    "det_score":0.6525201201,
+    "ocr_title":"",
+    "ocr_author":"",
+    "ocr_publisher":"",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"",
+    "match_authors":[
+
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"",
+    "match_thumbnail":"",
+    "match_score":0.0,
+    "clip_sim":0.0,
+    "author_overlap":0.0,
+    "review_flag":"unreadable"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":54,
+    "bbox":[
+      412.0567932129,
+      236.1527862549,
+      637.8150024414,
+      328.3398132324
+    ],
+    "det_score":0.6205522418,
+    "ocr_title":"",
+    "ocr_author":"",
+    "ocr_publisher":"",
+    "ocr_readable":false,
+    "ocr_confidence":"medium",
+    "match_title":"",
+    "match_authors":[
+
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"",
+    "match_thumbnail":"",
+    "match_score":0.0,
+    "clip_sim":0.0,
+    "author_overlap":0.0,
+    "review_flag":"unreadable"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":55,
+    "bbox":[
+      5.8566589355,
+      351.7712402344,
+      207.9412841797,
+      443.4021606445
+    ],
+    "det_score":0.6017379761,
+    "ocr_title":"",
+    "ocr_author":"",
+    "ocr_publisher":"",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"",
+    "match_authors":[
+
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"",
+    "match_thumbnail":"",
+    "match_score":0.0,
+    "clip_sim":0.0,
+    "author_overlap":0.0,
+    "review_flag":"unreadable"
+  },
+  {
+    "shelf_id":"84450a15f6",
+    "spine_idx":56,
+    "bbox":[
+      444.3012390137,
+      173.7285614014,
+      628.9826049805,
+      183.3265838623
+    ],
+    "det_score":0.5367277265,
+    "ocr_title":"",
+    "ocr_author":"",
+    "ocr_publisher":"",
+    "ocr_readable":false,
+    "ocr_confidence":"high",
+    "match_title":"",
+    "match_authors":[
+
+    ],
+    "match_publisher":"",
+    "match_publishedDate":"",
+    "match_categories":[
+
+    ],
+    "match_isbn":"",
+    "match_volumeId":"",
+    "match_thumbnail":"",
+    "match_score":0.0,
+    "clip_sim":0.0,
+    "author_overlap":0.0,
+    "review_flag":"unreadable"
+  }
+]

@@ -16,3 +16,5 @@ paddleocr
 transformers
 sentencepiece
 accelerate
+gradio
+qwen-vl-utils
