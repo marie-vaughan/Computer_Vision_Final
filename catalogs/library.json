@@ -1,0 +1,299 @@
+[
+  {
+    "title": "One Day",
+    "authors": [
+      "David Nicholls"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=O3vM0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "isbn": "9781399740890",
+    "volumeId": "O3vM0AEACAAJ",
+    "review_flag": "ok",
+    "status": "Read"
+  },
+  {
+    "title": "King of Pride",
+    "authors": [
+      "Ana Huang"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=kqKVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "isbn": "9780349436333",
+    "volumeId": "kqKVEAAAQBAJ",
+    "review_flag": "ok",
+    "status": "Read"
+  },
+  {
+    "title": "The Assassin's Blade",
+    "authors": [
+      "Sarah J. Maas"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=qCxIAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9781619632219",
+    "volumeId": "qCxIAgAAQBAJ",
+    "review_flag": "ok",
+    "status": "Read"
+  },
+  {
+    "title": "Starling House",
+    "authors": [
+      "Alix E. Harrow"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=g8aiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9781250799074",
+    "volumeId": "g8aiEAAAQBAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "Babel",
+    "authors": [
+      "R.F. Kuang"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=dlDqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9788551008959",
+    "volumeId": "dlDqEAAAQBAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "Conversations with Friends",
+    "authors": [
+      "Sally Rooney"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=4ZQnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9780451499059",
+    "volumeId": "4ZQnDwAAQBAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "Outlander",
+    "authors": [
+      "Diana Gabaldon"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=jIUrAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "isbn": "",
+    "volumeId": "jIUrAAAAYAAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "Little Fires Everywhere: Reese's Book Club",
+    "authors": [
+      "Celeste Ng"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=OsUPDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9780735224308",
+    "volumeId": "OsUPDgAAQBAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "The Measure",
+    "authors": [
+      "Nikki Erlick"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=vjQ_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9780063204225",
+    "volumeId": "vjQ_EAAAQBAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "The Glass Castle",
+    "authors": [
+      "Jeannette Walls"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=CLRZ79s5tD8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9781439156964",
+    "volumeId": "CLRZ79s5tD8C",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "The Seven Year Slip",
+    "authors": [
+      "Ashley Poston"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=ikyMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9780593336526",
+    "volumeId": "ikyMEAAAQBAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "The Poppy War",
+    "authors": [
+      "R. F. Kuang"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=2Yhp0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "isbn": "9780062662583",
+    "volumeId": "2Yhp0QEACAAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "Our Missing Hearts",
+    "authors": [
+      "Celeste Ng"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=G5vfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "isbn": "9781408716922",
+    "volumeId": "G5vfzgEACAAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "The Honest Truth About Dishonesty",
+    "authors": [
+      "Dan Ariely"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=xBxpEyZ8kbsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9780062298553",
+    "volumeId": "xBxpEyZ8kbsC",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "A Conjuring of Light",
+    "authors": [
+      "V. E. Schwab"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=JigrDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9780765387462",
+    "volumeId": "JigrDgAAQBAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "Salvage the Bones",
+    "authors": [
+      "Jesmyn Ward"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=PNOmCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9781608196265",
+    "volumeId": "PNOmCAAAQBAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "The Idiot",
+    "authors": [
+      "Elif Batuman"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=oqdYDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9781594205613",
+    "volumeId": "oqdYDgAAQBAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "A Gathering of Shadows",
+    "authors": [
+      "V. E. Schwab"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=BPFoCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9780765376497",
+    "volumeId": "BPFoCAAAQBAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "Anxious People",
+    "authors": [
+      "Fredrik Backman"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=PMr2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9781982121600",
+    "volumeId": "PMr2DwAAQBAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "Have You Seen Marie?",
+    "authors": [
+      "Sandra Cisneros"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=v5apHiuyTIMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9780307960863",
+    "volumeId": "v5apHiuyTIMC",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "Mixed Signals",
+    "authors": [
+      "Uri Gneezy"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=B06qEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9780300271430",
+    "volumeId": "B06qEAAAQBAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "A Darker Shade of Magic",
+    "authors": [
+      "V. E. Schwab"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=NHImBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9780765376459",
+    "volumeId": "NHImBgAAQBAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "Searching for Sylvie Lee",
+    "authors": [
+      "Jean Kwok"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=M1KlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "isbn": "9781529398267",
+    "volumeId": "M1KlDwAAQBAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "The Defining Decade",
+    "authors": [
+      "Meg Jay"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=Gm6ujNFLDCUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9780446575065",
+    "volumeId": "Gm6ujNFLDCUC",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "The Book Thief",
+    "authors": [
+      "Markus Zusak"
+    ],
+    "thumbnail": "",
+    "isbn": "9781428123014",
+    "volumeId": "SrnDAQAACAAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "The Mary Shelley Club",
+    "authors": [
+      "Goldy Moldavsky"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=Ley3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9781250230119",
+    "volumeId": "Ley3DwAAQBAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  },
+  {
+    "title": "Invisible Women",
+    "authors": [
+      "Caroline Criado Perez"
+    ],
+    "thumbnail": "http://books.google.com/books/content?id=GdmEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "isbn": "9781683353140",
+    "volumeId": "GdmEDwAAQBAJ",
+    "review_flag": "ok",
+    "status": "\u2014 none \u2014"
+  }
+]
